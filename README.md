@@ -1,4 +1,4 @@
-##Pokedex GO cli
+## Pokedex GO cli
 
 Type `help` to see all commands.
 
